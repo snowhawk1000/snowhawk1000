@@ -1,8 +1,8 @@
 ## Hello World
 
-All of the code I upload here is free, open source, and under the MIT license :)
+All of the code I upload here is open source, and under the MIT license :)
 
-The main languages I use:
+The main languages and framework that I use:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
