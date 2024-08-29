@@ -1,6 +1,6 @@
 ## Hello World
 
-All of the code I upload here is open source, and under the MIT licence :)
+All of the code I upload here is open source, and under the MIT license :)
 
 The main languages I use:
 
